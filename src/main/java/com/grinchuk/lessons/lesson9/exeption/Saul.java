@@ -21,7 +21,7 @@ public class Saul implements Lawyer, Cleaner {
             System.out.println("I couldn't help you with it\n" + exception.getMessage()+"\n And leave the country!");
         }
 
-
+        
     }
 
     @Override
